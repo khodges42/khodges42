@@ -20,8 +20,9 @@
 
 - Played a pro gamer on HBO's Ballers
 - Met and was _interjected_ by RMS
-- Music Producer on the side, I update my [soundcloud](https://soundcloud.com/casualfri) more than my github
+- Music Producer, I update my [soundcloud](https://soundcloud.com/casualfri) more than my github
 
-### I'm currently learning...
+### I'm want to learn...
 
 - 中文
+- Telekinesis
