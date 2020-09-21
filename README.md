@@ -22,7 +22,7 @@
 - Met and was _interjected_ by RMS
 - Music Producer, I update my [soundcloud](https://soundcloud.com/casualfri) more than my github
 
-### I'm want to learn...
+### I want to learn...
 
 - 中文
 - Telekinesis
