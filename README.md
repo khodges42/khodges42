@@ -1,4 +1,5 @@
-## hello u silly goose 
+## Ahoy!
+### (Did you know that Alexander Graham Bell tried to popularize answering the telephone with 'Ahoy'? I think that rules.)
 
 ### How to connect with @khodges42?
 
