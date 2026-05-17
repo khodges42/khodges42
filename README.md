@@ -1,29 +1,60 @@
-## Ahoy!
-### (Did you know that Alexander Graham Bell tried to popularize answering the telephone with 'Ahoy'? I think that rules.)
+<pre>
+ _    _           _                 
+| | _| |__   ___ | | __ _  ___  ___ 
+| |/ / '_ \ / _ \| |/ _` |/ _ \/ __|
+|   <| | | | (_) | | (_| |  __/\__ \
+|_|\_\_| |_|\___/|_|\__, |\___||___/
+                    |___/           
 
-### How to connect with @khodges42?
+build useful things. keep the signal high. ship.
+</pre>
 
-- Linkedin: [boom](https://www.linkedin.com/in/khodges42/)
+# Ahoy, I'm @khodges42
 
-### What matters to @khodges42?
+I build infrastructure for high-consequence systems: games people love, satellites in orbit, cryptography, and global-scale data.
 
-- **"Never trade freedom for security"** - Project: Ashe, League of Legends
+If you are here because you need someone who can figure things out, build quickly, and communicate clearly, start here:
 
-- **"“It is important to expect nothing, to take every experience, including the negative ones, as merely steps on the path, and to proceed.”** - Baba Ram Dass
+[LinkedIn](https://www.linkedin.com/in/khodges42/) | [SoundCloud](https://soundcloud.com/casualfri)
 
-- **"“The highest forms of understanding we can achieve are laughter and human compassion.”** - Richard Feynman
+## High-Signal Work
 
-- [Electronic Freedom](https://www.eff.org/)
+- **Riot Games infra:** helped build infrastructure for modern *League of Legends* and *VALORANT*.
+- **Legends of Runeterra launch:** was in the war room, found a bug that would have crashed launch, and got a Brandon Beck hug when we shipped.
+- **Amazon Kuiper:** responsible for systems involving 300 orbiting satellites; currently working on cryptography.
+- **Slack data:** worked on global-scale data processing infrastructure.
+- **ReliaQuest:** SWE #2, built GreyMatter from the early days.
 
-- [Software Freedom](https://www.fsf.org/)
+## What I'm About
 
-### Fun Facts about @khodges42
+- Building practical software with taste, curiosity, and a bias toward shipping when the stakes are real.
+- PMA: show up with energy, solve the problem in front of you, and leave the team stronger than you found it.
+- Internet freedom, software freedom, privacy, and autonomy: [EFF](https://www.eff.org/) and [FSF](https://www.fsf.org/).
+- Open collaboration over ego. Good ideas can come from anywhere.
+- Mentoring engineers and supporting people as they learn software. I care a lot about making the ladder easier to climb.
+- Creative work that crosses lanes: code, music, games, performance, and systems.
 
-- Played a pro gamer on HBO's Ballers
-- Met and was _interjected_ by RMS
-- Music Producer, I update my [soundcloud](https://soundcloud.com/casualfri) more than my github
+## Proof Of Weird Range
 
-### I want to learn...
+- Played a pro gamer on HBO's *Ballers*.
+- Met and was interjected by RMS.
+- Music producer. I update [SoundCloud](https://soundcloud.com/casualfri) more than GitHub.
+- Learning &#20013;&#25991;.
+- Still open to telekinesis if the API stabilizes.
 
-- 中文
-- Telekinesis
+## Operating Notes
+
+> "Never trade freedom for security."  
+> Project: Ashe, *League of Legends*
+
+> "It is important to expect nothing, to take every experience, including the negative ones, as merely steps on the path, and to proceed."  
+> Baba Ram Dass
+
+> "The highest forms of understanding we can achieve are laughter and human compassion."  
+> Richard Feynman
+
+## Money Button
+
+Want to build something, hire me, collaborate, or send an unusually good opportunity?
+
+Open with the outcome, constraints, timeline, and budget. I read clear messages first.
