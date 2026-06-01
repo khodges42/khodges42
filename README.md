@@ -38,13 +38,14 @@ If you are here because you need someone who can figure things out, build quickl
 - Mentoring engineers and supporting people as they learn software. I care a lot about making the ladder easier to climb.
 - Creative work that crosses lanes: code, music, games, performance, and systems.
 
-## Proof Of Weird Range
+## Facts!
 
 - Played a pro gamer on HBO's *Ballers*.
 - Met and was interjected by RMS.
 - Music producer. I update [SoundCloud](https://soundcloud.com/casualfri) more than GitHub.
-- Learning &#20013;&#25991;.
-- Still open to telekinesis if the API stabilizes.
+- American Sign Language enjoyer, rusty but enthusiastic.
+- Me encanta el español, pero aún me queda mucho por aprender.
+- 我正在学习中文，还有很多需要学习。
 
 ## Operating Notes
 
