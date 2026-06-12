@@ -30,6 +30,7 @@ jobs:
           cd public
       
           QUOTE="$(grep -v '^[[:space:]]*$' ../private/quotes.txt | shuf -n 1)"
+          UPDATED="$(date -u '+%Y-%m-%d %H:%M UTC')"
       
           echo "Selected quote: $QUOTE"
       
@@ -47,7 +48,7 @@ jobs:
           before, rest = text.split(start)
           _, after = rest.split(end)
       
-          replacement = f"{start}\n> {quote}\n{end}"
+          replacement = f"{start}\n> {quote}\n_📡 Transmission received: {updated}\n{end}"
           path.write_text(before + replacement + after)
           EOF
 
