@@ -50,10 +50,10 @@ jobs:
           _, after = rest.split(end)
       
           replacement = f"""{start}
-      > {quote}
-      
-      _📡 Transmission received: {updated}_
-      {end}"""
+          > {quote}
+          
+          _📡 Transmission received: {updated}_
+          {end}"""
           path.write_text(before + replacement + after)
           EOF
 
