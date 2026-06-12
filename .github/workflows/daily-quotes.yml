@@ -32,30 +32,10 @@ jobs:
           QUOTE="$(grep -v '^[[:space:]]*$' ../private/quotes.txt | shuf -n 1)"
           UPDATED="$(date -u '+%Y-%m-%d %H:%M UTC')"
       
-          echo "Selected quote: $QUOTE"
+          export QUOTE
+          export UPDATED
       
-          python3 <<EOF
-          from pathlib import Path
-      
-          path = Path("README.md")
-          text = path.read_text()
-      
-          start = "<!-- QUOTE:START -->"
-          end = "<!-- QUOTE:END -->"
-      
-          quote = """$QUOTE"""
-          updated = """$UPDATED"""
-      
-          before, rest = text.split(start)
-          _, after = rest.split(end)
-      
-          replacement = f"""{start}
-          > {quote}
-          
-          _📡 Transmission received: {updated}_
-          {end}"""
-          path.write_text(before + replacement + after)
-          EOF
+          python3 .github/scripts/update_readme.py
 
       - name: Commit and push if changed
         run: |
