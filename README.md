@@ -24,8 +24,9 @@ If you are here because you need someone who can figure things out, build quickl
 ## Daily Thought
 
 <!-- QUOTE:START -->
-> "Civilization runs on people quietly fixing things." — Me
-_📡 Transmission received: 2026-06-12 11:48 UTC
+> "Open source is humanity leaving notes for itself." — Me
+
+_📡 Transmission received: 2026-06-12 11:52 UTC_
 <!-- QUOTE:END -->
 
 ## High-Signal Work
