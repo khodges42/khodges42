@@ -24,27 +24,30 @@ jobs:
           repository: khodges42/quotes-private
           token: ${{ secrets.PRIVATE_QUOTES_TOKEN }}
           path: private
-
-      - name: Update README affirmation
+          
+      - name: Update README quote
         run: |
           cd public
-
-          quote="$(shuf -n 1 ../private/quotes.txt)"
-
+      
+          QUOTE="$(grep -v '^[[:space:]]*$' ../private/quotes.txt | shuf -n 1)"
+      
+          echo "Selected quote: $QUOTE"
+      
           python3 <<EOF
           from pathlib import Path
-
+      
           path = Path("README.md")
           text = path.read_text()
-
-          start = "<!-- AFFIRMATION:START -->"
-          end = "<!-- AFFIRMATION:END -->"
-
+      
+          start = "<!-- QUOTE:START -->"
+          end = "<!-- QUOTE:END -->"
+      
+          quote = """$QUOTE"""
+      
           before, rest = text.split(start)
           _, after = rest.split(end)
-
-          replacement = f'{start}\n> {"""$QUOTE"""}\n{end}'
-
+      
+          replacement = f"{start}\n> {quote}\n{end}"
           path.write_text(before + replacement + after)
           EOF
 
