@@ -24,7 +24,7 @@ If you are here because you need someone who can figure things out, build quickl
 ## Daily Thought
 
 <!-- AFFIRMATION:START -->
-> If this is here then my automation is broken, or something wonderful happened.
+> 
 <!-- AFFIRMATION:END -->
 
 ## High-Signal Work
