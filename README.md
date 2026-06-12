@@ -21,7 +21,7 @@ If you are here because you need someone who can figure things out, build quickl
 
 [LinkedIn](https://www.linkedin.com/in/khodges42/) | [SoundCloud](https://soundcloud.com/casualfri)
 
-## Daily Thought
+## Daily Status!
 
 <!-- QUOTE:START -->
 > "Most mysteries become less mysterious after enough packet captures." — Me
