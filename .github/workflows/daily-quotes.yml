@@ -49,7 +49,11 @@ jobs:
           before, rest = text.split(start)
           _, after = rest.split(end)
       
-          replacement = f"{start}\n> {quote}\n_📡 Transmission received: {updated}\n{end}"
+          replacement = f"""{start}
+      > {quote}
+      
+      _📡 Transmission received: {updated}_
+      {end}"""
           path.write_text(before + replacement + after)
           EOF
 
