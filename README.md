@@ -21,6 +21,12 @@ If you are here because you need someone who can figure things out, build quickl
 
 [LinkedIn](https://www.linkedin.com/in/khodges42/) | [SoundCloud](https://soundcloud.com/casualfri)
 
+## Daily Thought
+
+<!-- AFFIRMATION:START -->
+> If this is here then my automation is broken, or something wonderful happened.
+<!-- AFFIRMATION:END -->
+
 ## High-Signal Work
 
 - **Riot Games infra:** helped build infrastructure for modern *League of Legends* and *VALORANT*.
