@@ -44,6 +44,7 @@ jobs:
           end = "<!-- QUOTE:END -->"
       
           quote = """$QUOTE"""
+          updated = """$UPDATED"""
       
           before, rest = text.split(start)
           _, after = rest.split(end)
